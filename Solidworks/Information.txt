@@ -1,1 +1,6 @@
-Test
+Here are a few notes about this project
+
+1. The Full Build Assembly file allows the entire robot to be viewed. However, the scoop is not operational in this file. To see the scoop moving please see the Scoop Assembly
+
+2. When I construct this in real life, it is likely that more supports (potentialy also bearings at the top of the worm gear) will need to implemented to ensure the stability of the robot
+
